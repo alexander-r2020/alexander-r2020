@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Alexander Ruben Mamani 👋
 
 <!--
 **alexander-r2020/alexander-r2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
